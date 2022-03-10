@@ -1,5 +1,5 @@
 {
-    "name": "dingo/blueprint",
+    "name": "dilneiss/dingo-blueprint",
     "description": "API Blueprint documentation generator.",
     "keywords": ["blueprint", "api", "laravel", "dingo", "docs"],
     "license": "BSD-3-Clause",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": "^7.2.5|^8.0",
-        "illuminate/support": "^7.0|^8.0",
-        "illuminate/filesystem": "^7.0|^8.0",
+        "illuminate/support": "^7.0|^8.0|^9.0",
+        "illuminate/filesystem": "^7.0|^8.0|^9.0",
         "doctrine/annotations": "~1.2",
         "phpdocumentor/reflection-docblock": "^3.1 || ^4.1 || ^5"
     },
